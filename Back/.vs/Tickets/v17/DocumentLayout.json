@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\formation\\TicketsApp\\Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F397322-BC5E-474C-A99B-DC4316AA229B}|Tickets\\Tickets.csproj|c:\\formation\\ticketsapp\\back\\tickets\\tickets.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4F397322-BC5E-474C-A99B-DC4316AA229B}|Tickets\\Tickets.csproj|solutionrelative:tickets\\tickets.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F397322-BC5E-474C-A99B-DC4316AA229B}|Tickets\\Tickets.csproj|c:\\formation\\ticketsapp\\back\\tickets\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F397322-BC5E-474C-A99B-DC4316AA229B}|Tickets\\Tickets.csproj|solutionrelative:tickets\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F397322-BC5E-474C-A99B-DC4316AA229B}|Tickets\\Tickets.csproj|c:\\formation\\ticketsapp\\back\\tickets\\interfaces\\iticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F397322-BC5E-474C-A99B-DC4316AA229B}|Tickets\\Tickets.csproj|solutionrelative:tickets\\interfaces\\iticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tickets.http",
+              "DocumentMoniker": "C:\\formation\\TicketsApp\\Back\\Tickets\\Tickets.http",
+              "RelativeDocumentMoniker": "Tickets\\Tickets.http",
+              "ToolTip": "C:\\formation\\TicketsApp\\Back\\Tickets\\Tickets.http",
+              "RelativeToolTip": "Tickets\\Tickets.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-17T19:05:25.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\formation\\TicketsApp\\Back\\Tickets\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Tickets\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\formation\\TicketsApp\\Back\\Tickets\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Tickets\\Controllers\\TicketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:04:29.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITicket.cs",
+              "DocumentMoniker": "C:\\formation\\TicketsApp\\Back\\Tickets\\Interfaces\\ITicket.cs",
+              "RelativeDocumentMoniker": "Tickets\\Interfaces\\ITicket.cs",
+              "ToolTip": "C:\\formation\\TicketsApp\\Back\\Tickets\\Interfaces\\ITicket.cs",
+              "RelativeToolTip": "Tickets\\Interfaces\\ITicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:04:13.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
